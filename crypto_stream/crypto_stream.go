@@ -1,4 +1,4 @@
-package server
+package crypto_stream
 
 import (
 	"context"

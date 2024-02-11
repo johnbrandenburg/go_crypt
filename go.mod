@@ -1,4 +1,4 @@
-module server
+module go_crypt
 
 go 1.22.0
 

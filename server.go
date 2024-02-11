@@ -1,4 +1,4 @@
-package server
+package go_crypt
 
 import (
 	// "fmt"
